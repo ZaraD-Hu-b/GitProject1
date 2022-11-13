@@ -1,11 +1,11 @@
 package test.java;
 
 public class FeatureB {
-<<<<<<< HEAD
+//<<<<<<< HEAD
     
-=======
+//=======
 
     //work 1
     //work 2
->>>>>>> feature-b
+//>>>>>>> feature-b
 }
