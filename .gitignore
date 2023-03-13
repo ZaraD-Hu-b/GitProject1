@@ -1,6 +1,5 @@
 .idea
-out
 *.iml
-out
+/out
 *.xml
 fun.txt
