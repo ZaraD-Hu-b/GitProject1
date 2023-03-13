@@ -4,7 +4,7 @@ public class TestCase001 {
 
     //Test Case 001
 
-    //Testing login
+    //Testing user login
 
     //using valid credentials
 
